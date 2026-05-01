@@ -104,12 +104,12 @@ Using the collected data, I was able to:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
 ```
-git clone <your_repo_link>
+git clone <https://github.com/seelasuraj/Data-Driven-Smart-Theft-Protection-and-Intrusion-Risk-Analysis-System>
 cd Data-Driven-Smart-Theft-Protection-and-Intrusion-Risk-Analysis-System
 ```
 
@@ -134,13 +134,13 @@ python tracking.py
 
 ---
 
-## 🔐 Note
+##  Note
 
 For security reasons, the Telegram bot token is not included in this repository. You will need to create your own bot using BotFather and update the token in the code.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Deploy the system on a Raspberry Pi for real-world use
 * Develop a mobile app for alerts
@@ -149,7 +149,7 @@ For security reasons, the Telegram bot token is not included in this repository.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Seela Venkata Naga Suraj
 B.Tech Data Science Student
