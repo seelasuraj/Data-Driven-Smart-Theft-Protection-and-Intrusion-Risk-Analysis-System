@@ -152,4 +152,4 @@ For security reasons, the Telegram bot token is not included in this repository.
 ##  Author
 
 Seela Venkata Naga Suraj
-B.Tech Data Science Student
+B.Tech computer science and engineering (Data Science)
